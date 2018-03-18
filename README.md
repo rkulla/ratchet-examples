@@ -1,5 +1,6 @@
-Welcome to the Ratchet examples, by Ryan Kulla. Here you'll find the Go ETL framework examples
-to go along with my [tutorial](rkulla.blogspot.com/2016/01/data-pipeline-and-etl-tasks-in-go-using.html).
+Welcome to the Ratchet examples, by Ryan Kulla. 
+
+Here you'll find the Go ETL framework examples to go along with my [tutorial](rkulla.blogspot.com/2016/01/data-pipeline-and-etl-tasks-in-go-using.html).
 
 * example1: Very basic Ratchet program. SQLReader and SQLWriter, no transformer.
 
@@ -13,9 +14,9 @@ to go along with my [tutorial](rkulla.blogspot.com/2016/01/data-pipeline-and-etl
 
 ## Usage
 
-   $ go get github.com/rkulla/ratchet-examples
-   $ cd example1
-   $ vim README  
+    $ go get github.com/rkulla/ratchet-examples
+    $ cd example1
+    $ vim README  
    
 Each example directory contains its own usage README and its **own** schema. 
 So make sure you run each schema to populate the source databases first.
