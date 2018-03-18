@@ -1,6 +1,6 @@
 Welcome to the Ratchet examples, by Ryan Kulla. 
 
-Here you'll find the Go ETL framework examples to go along with my [tutorial](rkulla.blogspot.com/2016/01/data-pipeline-and-etl-tasks-in-go-using.html).
+Here you'll find the Go ETL framework examples to go along with my [tutorial](https://rkulla.blogspot.com/2016/01/data-pipeline-and-etl-tasks-in-go-using.html).
 
 * example1: Very basic Ratchet program. SQLReader and SQLWriter, no transformer.
 
