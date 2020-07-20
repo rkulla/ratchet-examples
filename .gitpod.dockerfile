@@ -2,7 +2,7 @@ FROM gitpod/workspace-full
 
 RUN sudo apt-get update \
  && sudo apt-get install -y \
-    mysql \
+    mysql-server \
  && sudo rm -rf /var/lib/apt/lists/* \
  && go get	"database/sql" \
  && go get	"github.com/dailyburn/ratchet" \
